@@ -50,6 +50,7 @@ a.   KVL:
 
 
 b.  KCL:
+
  <img width="1280" height="1131" alt="image " src="https://github.com/user-attachments/assets/ced57962-5d66-4472-a7c1-d9e6dac2b5cc" />
 
 
@@ -84,6 +85,7 @@ RESULT:
 a. KVL:
 <img width="1133" height="628" alt="Screenshot 2026-10-19 142340" src="https://github.com/user-attachments/assets/2980b601-1585-4992-a3a9-f701fe454555" />
 b.KCL:
-<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/f0a1a766-1e80-4549-9405-fdcc6b6cc153" />
+<img width="1047" height="562" alt="WhatsApp Image 2026-10-21 at 10 45 33 PM" src="https://github.com/user-attachments/assets/295e8ca7-b7ed-443a-895b-07d9bb15f004" />
+
 
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
